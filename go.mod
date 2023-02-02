@@ -1,4 +1,4 @@
-module github.com/arammikayelyan/webscraping
+module github.com/arammikayelyan/webscraper
 
 go 1.19
 
